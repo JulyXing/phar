@@ -1,0 +1,13 @@
+*.*
+
+!app/
+!include/
+!public/
+!static/
+!templates/
+
+!.gitignore
+
+!index.php
+!build.php
+!README.php
